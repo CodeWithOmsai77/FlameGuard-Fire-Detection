@@ -74,6 +74,8 @@ This gives approximately 3.3V at the midpoint. Confirm the requirements of your 
 
 [View the FlameGuard prototype photo (JPG)](Flame_Detector/prototype-photo.jpeg)
 
+[View the Arduino program (`Flame_Detector.ino`)](Flame_Detector/Flame_Detector.ino)
+
 ---
 
 ## 🖼️ Circuit Diagram
