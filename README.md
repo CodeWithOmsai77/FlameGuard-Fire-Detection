@@ -32,4 +32,4 @@ FlameGuard is an Arduino Uno-based fire detection project. A flame sensor detect
 
 ## Circuit Diagram
 
-![FlameGuard circuit diagram](Flame_Detector/Arduino_Fire_Detection_Wiring.png)
+![FlameGuard circuit diagram](Flame_Detector/Arduino%20Fire%20Detection%20Wiring%20Diagram.png)
