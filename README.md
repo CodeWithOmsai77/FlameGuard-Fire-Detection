@@ -70,6 +70,12 @@ This gives approximately 3.3V at the midpoint. Confirm the requirements of your 
 
 ---
 
+## 📷 Prototype Photo
+
+[View the FlameGuard prototype photo (JPG)](Flame_Detector/prototype-photo.jpeg)
+
+---
+
 ## 🖼️ Circuit Diagram
 
 <div align="center">
